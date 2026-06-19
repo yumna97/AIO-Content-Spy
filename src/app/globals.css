@@ -1,0 +1,8 @@
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+html, body { height: 100%; }
+body {
+  font-family: 'Inter', -apple-system, system-ui, sans-serif;
+  background: #ffffff;
+  color: #1A1F36;
+  -webkit-font-smoothing: antialiased;
+}
